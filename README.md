@@ -21,14 +21,9 @@ Tailwind CSS
 
 Vanilla JavaScript (no frameworks/libraries)
 
-📸 Screenshot
-
-(Add your screenshot here if you want)
-
 ▶️ How to Run
+Link : https://stop-watch-six-chi.vercel.app/
 
 Clone or download this repo.
-
-
 
 Enjoy the stopwatch!
